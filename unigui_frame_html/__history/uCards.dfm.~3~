@@ -1,0 +1,20 @@
+object FrCards: TFrCards
+  Left = 0
+  Top = 0
+  Width = 602
+  Height = 462
+  Align = alClient
+  Anchors = [akLeft, akTop, akRight, akBottom]
+  TabOrder = 0
+  object UniHTMLFrame1: TUniHTMLFrame
+    Left = 0
+    Top = 0
+    Width = 602
+    Height = 462
+    Hint = ''
+    Align = alClient
+    ExplicitLeft = -33
+    ExplicitWidth = 635
+    ExplicitHeight = 299
+  end
+end

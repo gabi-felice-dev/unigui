@@ -1,0 +1,48 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  ClientHeight = 299
+  ClientWidth = 635
+  Caption = 'MainForm'
+  WindowState = wsMaximized
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniHTMLFrame1: TUniHTMLFrame
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 299
+    Hint = ''
+    HTML.Strings = (
+      '<div class="card">'
+      '  <img src="img_avatar.png" alt="Avatar" style="width:100%">'
+      '  <div class="container">'
+      '    <h4><b>John Doe</b></h4>'
+      '    <p>Architect & Engineer</p>'
+      '  </div>'
+      '</div>'
+      ''
+      '<div class="card">'
+      '  <img src="img_avatar.png" alt="Avatar" style="width:100%">'
+      '  <div class="container">'
+      '    <h4><b>John Doe</b></h4>'
+      '    <p>Architect & Engineer</p>'
+      '  </div>'
+      '</div>'
+      ''
+      '<div class="card">'
+      '  <img src="img_avatar.png" alt="Avatar" style="width:100%">'
+      '  <div class="container">'
+      '    <h4><b>John Doe</b></h4>'
+      '    <p>Architect & Engineer</p>'
+      '  </div>'
+      '</div>')
+    Align = alClient
+    ExplicitLeft = 176
+    ExplicitTop = 64
+    ExplicitWidth = 256
+    ExplicitHeight = 128
+  end
+end

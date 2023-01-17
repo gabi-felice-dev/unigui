@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/17 07:22:20.000.846,=C:\Git\Delphi\Main.pas</Transaction>
+    <Transaction>2023/01/17 07:22:20.000.622,=C:\Git\Delphi\MainModule.pas</Transaction>
+    <Transaction>2023/01/17 07:22:20.000.522,=C:\Git\Delphi\ServerModule.pas</Transaction>
+    <Transaction>2023/01/17 07:37:58.314,=C:\Git\Delphi\unigui_frame_html\Unit1.pas</Transaction>
+    <Transaction>2023/01/17 07:38:13.242,C:\Git\Delphi\unigui_frame_html\uCards.pas=C:\Git\Delphi\unigui_frame_html\Unit1.pas</Transaction>
+    <Transaction>2023/01/17 07:38:13.242,C:\Git\Delphi\unigui_frame_html\uCards.dfm=C:\Git\Delphi\unigui_frame_html\Unit1.dfm</Transaction>
+    <Transaction>2023/01/17 07:44:59.999,=C:\Git\Delphi\unigui_frame_html\Unit1.pas</Transaction>
+    <Transaction>2023/01/17 07:45:14.250,=C:\Git\Delphi\unigui_frame_html\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

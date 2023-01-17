@@ -1,0 +1,87 @@
+unigui_frame_html.exe: 00001304: 07:22:29 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 00001304: 07:22:29 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 00001304: 07:22:29 [TUniServerModule]:Start Path = C:\Git\Delphi\Win32\Debug\
+unigui_frame_html.exe: 00001304: 07:22:29 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 00001304: 07:22:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 00001304: 07:22:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 00001DBC: 07:26:49 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 00001DBC: 07:26:49 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 00001DBC: 07:26:49 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 00001DBC: 07:26:49 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 00001DBC: 07:26:49 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 00001DBC: 07:26:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 00001DBC: 07:26:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 0000078C: 07:27:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img_avatar.png
+unigui_frame_html.exe: 00000CEC: 07:28:36 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 00000CEC: 07:28:36 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 00000CEC: 07:28:36 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 00000CEC: 07:28:36 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 00000CEC: 07:28:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 00000CEC: 07:28:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 0000099C: 07:28:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img_avatar.png
+unigui_frame_html.exe: 0000137C: 07:30:22 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 0000137C: 07:30:22 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 0000137C: 07:30:22 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 0000137C: 07:30:22 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 0000137C: 07:30:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 0000137C: 07:30:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 0000137C: 07:30:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 00002444: 07:31:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QVtUIDXNqa10BE20D29 ) : Addr: $007B4933
+unigui_frame_html.exe: 00002D14: 07:31:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img_avatar2.png
+unigui_frame_html.exe: 00002580: 07:33:19 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 00002580: 07:33:19 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 00002580: 07:33:19 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 00002580: 07:33:19 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 00002580: 07:33:19 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 00002580: 07:33:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 00002580: 07:33:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 000044D8: 07:33:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1PLpCPzOsM10BE20DF8 ) : Addr: $007B4933
+unigui_frame_html.exe: 0000443C: 07:33:45 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img\img_avatar2.png
+unigui_frame_html.exe: 000037A8: 07:36:28 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 000037A8: 07:36:28 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 000037A8: 07:36:28 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 000037A8: 07:36:28 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 000037A8: 07:36:28 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 000037A8: 07:36:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 000037A8: 07:36:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 00002B40: 07:37:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4ezjqjIjlW10BE20E76 ) : Addr: $007B4933
+unigui_frame_html.exe: 00000AF0: 07:37:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img\img_avatar2.png
+unigui_frame_html.exe: 000004F8: 07:48:31 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 000004F8: 07:48:31 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 000004F8: 07:48:31 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 000004F8: 07:48:31 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 000004F8: 07:48:31 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 000004F8: 07:48:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 000004F8: 07:48:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 00004AA8: 07:49:54 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 00004AA8: 07:49:54 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 00004AA8: 07:49:54 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 00004AA8: 07:49:54 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 00004AA8: 07:49:54 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 00004AA8: 07:49:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 00004AA8: 07:49:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 00003838: 07:50:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: hx13G59C9U10BE212AD ) : Addr: $007B4933
+unigui_frame_html.exe: 0000098C: 07:51:02 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 0000098C: 07:51:02 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 0000098C: 07:51:02 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 0000098C: 07:51:02 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 0000098C: 07:51:02 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 0000098C: 07:51:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 0000098C: 07:51:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 00002190: 07:51:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: grLOGpsXdw10BE20F49 ) : Addr: $007B4933
+unigui_frame_html.exe: 00003500: 07:51:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: grLOGpsXdw10BE20F49 ) : Addr: $007B4933
+unigui_frame_html.exe: 00004324: 07:51:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: grLOGpsXdw10BE20F49 ) : Addr: $007B4933
+unigui_frame_html.exe: 00004978: 07:51:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: grLOGpsXdw10BE20F49 ) : Addr: $007B4933
+unigui_frame_html.exe: 00000A94: 07:53:17 []:>--------------------------------------------------------------<
+unigui_frame_html.exe: 00000A94: 07:53:17 [TUniServerModule]:Server First Init.
+unigui_frame_html.exe: 00000A94: 07:53:17 [TUniServerModule]:Start Path = C:\Git\Delphi\unigui_frame_html\Win32\Debug\
+unigui_frame_html.exe: 00000A94: 07:53:17 [TUniServerModule]:Debug Mode = ON
+unigui_frame_html.exe: 00000A94: 07:53:17 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+unigui_frame_html.exe: 00000A94: 07:53:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+unigui_frame_html.exe: 00000A94: 07:53:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+unigui_frame_html.exe: 0000436C: 07:53:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: dCCYaCjElD10BE212DE ) : Addr: $007B4933
+unigui_frame_html.exe: 00001498: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img\img_avatar2.png
+unigui_frame_html.exe: 0000223C: 07:53:47 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img\img_avatar2.png
+unigui_frame_html.exe: 0000423C: 07:54:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img\img_avatar2.png
+unigui_frame_html.exe: 00000A90: 07:54:10 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\...\img\img_avatar2.png
+unigui_frame_html.exe: 00001FE0: 07:54:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Git\Delphi\unigui_frame_html\Win32\Debug\img\img_avatar2.png
